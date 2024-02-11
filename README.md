@@ -1,7 +1,7 @@
 # Bank-Mangement-System
 
-Java JDBC Bank Management System (Console-Based)
-The Java JDBC Bank Management System is a robust console-based application developed in Java, utilizing JDBC for seamless integration with a MySQL database. This system provides essential functionalities for efficient management of banking operations through a command-line interface.
+Java JDBC Bank Management System (Console-Based):
+    The Java JDBC Bank Management System is a robust console-based application developed in Java, utilizing JDBC for seamless integration with a MySQL database. This system provides essential functionalities for efficient management of banking operations through a command-line interface.
 
 Features
 User Authentication: Secure login system with role-based access control for administrators and regular users.
